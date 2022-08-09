@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblib_planner.a  CMakeFiles/lib_planner.dir/src/Astar.cpp.o CMakeFiles/lib_planner.dir/src/ARAstar.cpp.o
+/usr/bin/ranlib liblib_planner.a

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/passoni/桌面/Sample_Based/include/Astar.h
+GridNode.h
+/home/passoni/桌面/Sample_Based/include/GridNode.h
+vector
+-
+map
+-
+algorithm
+-
+
+/home/passoni/桌面/Sample_Based/include/GridNode.h
+iostream
+-
+
+/home/passoni/桌面/Sample_Based/src/Astar_test.cpp
+iostream
+-
+../include/Astar.h
+/home/passoni/桌面/Sample_Based/include/Astar.h
+
